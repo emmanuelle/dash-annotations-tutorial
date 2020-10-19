@@ -3,3 +3,4 @@ dash
 jupyter_dash
 pandas
 scikit-image
+jupytext
